@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm there 👋
 
 <!--
 **jarin69-com/jarin69-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
